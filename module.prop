@@ -1,0 +1,6 @@
+id=a502zt_disable-edge-limit
+name=ZTE/nubia Fold Edge Limit Suppressor
+version=v1.0.0
+versionCode=100
+author=nuIlpointer
+description=Disables edge touch suppression (/proc/touchscreen/edge_report_limit algo_open:0) on ZTE nubia Fold (A502ZT) to resolve edge touch dead zones.

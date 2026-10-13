@@ -1,0 +1,10 @@
+# Build artifacts
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS generated
+.DS_Store
+Thumbs.db
